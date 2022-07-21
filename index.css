@@ -23,7 +23,7 @@ body {
     width: 100%;
     height: 400px;
     top: 0;
-    background: url(/images/pattern-background-desktop.svg) repeat;
+    background: url(.images/pattern-background-desktop.svg) repeat;
     background-size: contain;
     z-index: -1;
 }
