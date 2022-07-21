@@ -116,6 +116,7 @@ body {
     text-decoration: underline;
     cursor: pointer;
     font-weight: 700;
+    font-size: 13px;
 }
 
 .button-div {
